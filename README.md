@@ -9,4 +9,4 @@
 7.in browser run 127.0.0.1:8000/getmovies/
 
 
-you Got All DATA from scraping
+you Got RESULT..!!
