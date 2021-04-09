@@ -1,7 +1,8 @@
 # webscraping-api-django
 
 1.create virtual environment and Activate it
-2.install requirement.txt 
+2.install requirements.txt 
+In Console follow this code
 3.python manage.py makemigrations
 4.python manage.py mirate
 5.python manage.py createsuperuser
