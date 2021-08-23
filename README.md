@@ -1,4 +1,4 @@
-# webscraping-api-django
+# bs4-api-django
 
 1.create virtual environment and Activate it
 2.install requirements.txt 
